@@ -1,0 +1,42 @@
+<view class='main'>
+  <view class='nav'>
+    <navigator>
+      <image class="img" src='../../images/images/ee_03.png'></image>
+      <view class='fig'>喜多士</view>
+    </navigator>
+    <navigator>
+      <image class="img" src='../../images/images/ff_03.png'></image>
+      <view class='fig'>冰雪皇后</view>
+    </navigator>
+    <navigator>
+      <image class="img" src='../../images/images/gg_03.png'></image>
+      <view class='fig'>肯德基</view>
+    </navigator>
+    <navigator>
+      <image class="img" src='../../images/images/hh_03.png'></image>
+      <view class='fig'>必胜客</view>
+    </navigator>
+    <navigator>
+      <image class="img" src='../../images/images/jj_03.png'></image>
+      <view class='fig'>全家</view>
+    </navigator>
+  </view>
+  <view>
+    <image src="../../images/images/Screenshot_2018-10-25-16-38-44_03.gif" class='contnet'></image>
+  </view>
+  <view>
+    <image src="../../images/images/Screenshot_2018-10-25-16-38-44_06.gif" class="dQ"></image>
+  </view>
+  <view class='Fts'>
+    <image src="../../images/images/Screenshot_2018-10-25-16-38-44_09.gif" class="footer"></image>
+    <image src="../../images/images/Screenshot_2018-10-25-16-38-44_09.gif" class="footer"></image>
+  </view>
+    <view class='Fts'>
+    <image src="../../images/images/Screenshot_2018-10-25-16-38-44_09.gif" class="footer"></image>
+    <image src="../../images/images/Screenshot_2018-10-25-16-38-44_09.gif" class="footer"></image>
+  </view>
+      <view class='Fts'>
+    <image src="../../images/images/Screenshot_2018-10-25-16-38-44_09.gif" class="footer"></image>
+    <image src="../../images/images/Screenshot_2018-10-25-16-38-44_09.gif" class="footer"></image>
+  </view>
+</view>
