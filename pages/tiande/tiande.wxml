@@ -1,0 +1,19 @@
+<!-- 喜士多 -->
+
+<view class="xsd">
+  <view class="big">
+    <image src="../../imge/Screenshot_2018-10-25-16-40-37_03.png"></image>
+  </view>
+  <view class="lpk">
+    <view>
+      <image src="../../imge/login.png"></image><text>天福心意卡</text>
+    </view>
+    <view class="xjq">
+      <image src='../../imge/Screenshot_2018-10-25-16-40-37_07.png'></image>
+      <image src='../../imge/Screenshot_2018-10-25-16-40-37_09.png'></image>
+      <image src='../../imge/Screenshot_2018-10-25-16-40-37_13.png'></image>
+    </view>
+  
+  </view>
+
+</view>
