@@ -1,6 +1,10 @@
 {
   "pages": [
+<<<<<<< HEAD
       "pages/homePage/homePage",
+=======
+    "pages/family/family",
+>>>>>>> bde43a8d61824b427bf24cf6c2f96a514e0e37ea
     "pages/index/index",
     "pages/logs/logs"
   
