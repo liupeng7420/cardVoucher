@@ -4,7 +4,7 @@
 		"ignore": []
 	},
 	"setting": {
-		"urlCheck": true,
+		"urlCheck": false,
 		"es6": true,
 		"postcss": true,
 		"minified": true,
@@ -12,7 +12,7 @@
 	},
 	"compileType": "miniprogram",
 	"libVersion": "2.3.0",
-	"appid": "wxa46635682d35dc49",
+	"appid": "wx0a970dcafe147f19",
 	"projectname": "cardVoucher",
 	"debugOptions": {
 		"hidedInDevtools": []

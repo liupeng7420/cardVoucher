@@ -1,0 +1,38 @@
+
+
+.cate-la{
+ margin-left: 50rpx;
+}
+.one-image{
+  height: 500rpx;
+  padding: 50rpx;
+  display: flex;
+  box-sizing: border-box;
+}
+.tow-image{
+  display: flex;
+  justify-content: space-around;
+  padding: 50rpx;  
+  box-sizing: border-box;
+}
+.three-image{
+  width: 305rpx;
+  height: 200rpx;
+}
+.cate-one{
+  height: 300rpx;
+}
+ .cate-one:last-child{
+   margin-left: 50rpx;
+ }
+ .cate-text{
+   font-size: 30rpx;
+ }
+ .cate-yuan{
+   font-size: 30rpx;
+   color: #d73d3b;
+   margin-left: 20rpx;
+ }
+ .cate-message{
+   font-size: 28rpx;
+ }

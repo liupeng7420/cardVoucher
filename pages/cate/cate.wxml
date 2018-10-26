@@ -1,0 +1,30 @@
+<view class='image'>
+  <image class='one-image' src='../../images/aa_03.png'></image>
+  <text class='cate-la'>肯德基礼品卡</text>
+  <view class='tow-image'>
+    <view class='cate-one'>
+      <image class='three-image' src='../../images/bb_03.png'></image>
+      <view>
+        <text class='cate-text'>50元礼品卡</text>
+        <text class='cate-yuan'>￥45元</text>
+      </view>
+      <text class='cate-message'>今晚一起看球</text>
+    </view>
+    <view class='cate-one'>
+      <image class='three-image' src='../../images/cc_03.png'></image>
+      <view>
+        <text class='cate-text'>100元礼品卡</text>
+        <text class='cate-yuan'>￥95元</text>
+      </view>
+      <text class='cate-message'>送给一家人浓浓心意</text>
+    </view>
+  </view>
+  <view class='cate-one'>
+      <image class='three-image' src='../../images/dd_03.png'></image>
+      <view>
+        <text class='cate-text'>200元礼品卡</text>
+        <text class='cate-yuan'>￥190元</text>
+      </view>
+      <text class='cate-message'>一份心意，送去生日的祝福</text>
+    </view>
+</view>
