@@ -1,9 +1,10 @@
 {
   "pages": [
-      "pages/tiande/tiande",
+    "pages/tiande/tiande",
+    "pages/homePage/homePage",
+    "pages/family/family",
     "pages/index/index",
     "pages/logs/logs"
-  
   ],
   "window": {
     "backgroundTextStyle": "light",
