@@ -2,8 +2,9 @@
   "pages": [
     "pages/bishengke/bishengke",
     "pages/index/index",
+      "pages/homePage/homePage",
+    "pages/family/family",
     "pages/logs/logs"
-    
   ],
   "window": {
     "backgroundTextStyle": "light",
