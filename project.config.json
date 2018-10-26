@@ -13,10 +13,18 @@
 	"compileType": "miniprogram",
 	"libVersion": "2.3.0",
 <<<<<<< HEAD
+<<<<<<< HEAD
 	"appid": "wx0a970dcafe147f19",
 =======
 	"appid": "wx99ca4703cda8aed8",
 >>>>>>> cf68747a60acc126bf0605f0ece9f8dfe4759beb
+=======
+
+	"appid": "wx3a6269a60be0df0a",
+
+	"appid": "wx99ca4703cda8aed8",
+
+>>>>>>> 8f9be9dbaea03661487bebc45f0c92596271795e
 	"projectname": "cardVoucher",
 	"debugOptions": {
 		"hidedInDevtools": []

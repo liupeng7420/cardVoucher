@@ -1,10 +1,20 @@
 {
   "pages": [
+<<<<<<< HEAD
     "pages/cate/cate",
+=======
+<<<<<<< HEAD
+    "pages/tiande/tiande",
+    "pages/homePage/homePage",
+    "pages/family/family",
+    "pages/index/index",
+=======
+>>>>>>> 8f9be9dbaea03661487bebc45f0c92596271795e
     "pages/bishengke/bishengke",
     "pages/index/index",
       "pages/homePage/homePage",
     "pages/family/family",
+>>>>>>> 85185df439cfabb10861df67d9d910ef36c34710
     "pages/logs/logs"
   ],
   "window": {

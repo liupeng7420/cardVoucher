@@ -1,0 +1,41 @@
+<!-- 喜士多 -->
+
+<view class="xsd">
+  <view class='nav'>
+    <navigator>
+      <image class="img" src='../../images/images/ee_03.png'></image>
+      <view class='fig'>喜多士</view>
+    </navigator>
+    <navigator>
+      <image class="img" src='../../images/images/ff_03.png'></image>
+      <view class='fig'>冰雪皇后</view>
+    </navigator>
+    <navigator>
+      <image class="img" src='../../images/images/gg_03.png'></image>
+      <view class='fig'>肯德基</view>
+    </navigator>
+    <navigator>
+      <image class="img" src='../../images/images/hh_03.png'></image>
+      <view class='fig'>必胜客</view>
+    </navigator>
+    <navigator>
+      <image class="img" src='../../images/images/jj_03.png'></image>
+      <view class='fig'>全家</view>
+    </navigator>
+  </view>
+  <view class="big">
+    <image src="../../imge/Screenshot_2018-10-25-16-40-37_03.png"></image>
+  </view>
+  <view class="lpk">
+    <view>
+      <image src="../../imge/login.png"></image><text>天福心意卡</text>
+    </view>
+    <view class="xjq">
+      <image src='../../imge/Screenshot_2018-10-25-16-40-37_07.png'></image>
+      <image src='../../imge/Screenshot_2018-10-25-16-40-37_09.png'></image>
+      <image src='../../imge/Screenshot_2018-10-25-16-40-37_13.png'></image>
+    </view>
+  
+  </view>
+
+</view>
