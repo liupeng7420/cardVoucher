@@ -12,7 +12,11 @@
 	},
 	"compileType": "miniprogram",
 	"libVersion": "2.3.0",
+<<<<<<< HEAD
 	"appid": "wx0a970dcafe147f19",
+=======
+	"appid": "wx99ca4703cda8aed8",
+>>>>>>> cf68747a60acc126bf0605f0ece9f8dfe4759beb
 	"projectname": "cardVoucher",
 	"debugOptions": {
 		"hidedInDevtools": []

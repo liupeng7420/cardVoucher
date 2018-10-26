@@ -1,0 +1,97 @@
+<!--pages/family/family.wxml-->
+<view class='all'>
+  <view class='header'>
+    <view>
+      <image src='../../img/Screenshot_2018-10-25-16-40-10_031.png' class='headerImg'></image>
+      <view>
+        <text>肯德基</text>
+      </view>
+    </view>
+
+    <view>
+      <image src='../../img/Screenshot_2018-10-25-16-40-10_05.png' class='headerImg'></image>
+      <view>
+        <text>必胜客</text>
+      </view>
+    </view>
+
+    <view>
+      <image src='../../img/Screenshot_2018-10-25-16-40-10_03_03.png' class='headerImg'></image>
+      <view>
+        <text>全家</text>
+      </view>
+    </view>
+
+    <view>
+      <image src='../../img/Screenshot_2018-10-25-16-40-10_071.png' class='headerImg'></image>
+      <view>
+        <text>广州天福</text>
+      </view>
+    </view>
+
+    <view>
+      <image src='../../img/Screenshot_2018-10-25-16-40-10_091.png' class='headerImg'></image>
+      <view>
+        <text>山林</text>
+      </view>
+    </view>
+
+  </view>
+  <image src='../../img/Screenshot_2018-10-25-16-40-10_03.png' class='bigImg'></image>
+  <view>
+    <image src='../../img/Screenshot_2018-10-25-16-40-10_03_07.png' class='ruyi'></image>
+    <text>全家心意卡</text>
+  </view>
+  <view class='quan'>
+    <view class='quan1'>
+      <image src='../../img/Screenshot_2018-10-25-16-40-10_07.png' class='quanImg'></image>
+      <view class='quan1_1'>
+        <text>5元现金券</text>
+        <text class='red'>￥5</text>
+      </view>
+      <view>
+        <text class='grayFont'>不限品类，可兑换任意商品</text>
+      </view>
+    </view>
+    <view class='quan1'>
+      <image src='../../img/Screenshot_2018-10-25-16-40-10_09.png' class='quanImg'></image>
+      <view class='quan1_1'>
+        <text>10元现金券</text>
+        <text class='red'>￥10</text>
+      </view>
+      <view>
+        <text class='grayFont'>不限品类，可兑换任意商品</text>
+      </view>
+    </view>
+    <view class='quan1'>
+      <image src='../../img/Screenshot_2018-10-25-16-40-10_13.png' class='quanImg'></image>
+      <view class='quan1_1'>
+        <text>20元现金券</text>
+        <text class='red'>￥20</text>
+      </view>
+      <view>
+        <text class='grayFont'>不限品类，可兑换任意商品</text>
+      </view>
+    </view>
+    <view class='quan1'>
+      <image src='../../img/Screenshot_2018-10-25-16-40-10_14.png' class='quanImg'></image>
+      <view class='quan1_1'>
+        <text>30元现金券</text>
+        <text class='red'>￥30</text>
+      </view>
+      <view>
+        <text class='grayFont'>不限品类，可兑换任意商品</text>
+      </view>
+    </view>
+    <view class='quan1'>
+      <image src='../../img/Screenshot_2018-10-25-16-40-10_17.png' class='quanImg'></image>
+      <view class='quan1_1'>
+        <text>50元现金券</text>
+        <text class='red'>￥50</text>
+      </view>
+      <view>
+        <text class='grayFont'>不限品类，可兑换任意商品</text>
+      </view>
+    </view>
+  </view>
+</view>
