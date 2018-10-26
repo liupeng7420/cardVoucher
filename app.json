@@ -1,9 +1,16 @@
 {
   "pages": [
+<<<<<<< HEAD
     "pages/homePage/homePage",
     "pages/cate/cate",
     "pages/family/family",
     "pages/index/index",
+=======
+    "pages/bishengke/bishengke",
+    "pages/index/index",
+      "pages/homePage/homePage",
+    "pages/family/family",
+>>>>>>> 85185df439cfabb10861df67d9d910ef36c34710
     "pages/logs/logs"
   ],
   "window": {

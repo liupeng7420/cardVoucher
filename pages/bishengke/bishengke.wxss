@@ -1,0 +1,44 @@
+/* pages/bishengke/bishengke.wxss */
+.index{
+   margin:20rpx auto;
+  width:664rpx;
+   
+}
+.indexImg{
+  /* padding:20rpx; */
+  
+  width:664rpx;
+  height:400rpx;
+  /* width:498rpx;
+  height:300rpx; */
+}
+.cardview{
+  padding:40rpx;
+  padding-top:0;
+}
+.cards{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  font-size: 30rpx;
+  
+}
+.jiage{
+  display: flex;
+  justify-content: space-between;
+}
+.card{
+  text-align: center;
+  padding-bottom: 20rpx;
+}
+.img{
+  width:332rpx;
+  height:200rpx;
+}
+.zhekou{
+  color: red;
+}
+.yuanjia{
+  color: rgb(122, 122, 122);
+   text-decoration:rgb(77, 77, 77) line-through;
+}
